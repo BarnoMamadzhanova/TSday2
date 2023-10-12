@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.myContainer {
+  margin-top: 30px;
+}
+
+.card-fix {
+  height: 43rem;
+  padding: 5px;
+  color: midnightblue;
+  background-color: lightgray;
+}
+.card-fix .img {
+  height: 15rem;
+}
+.card-fix h4 {
+  height: 25px;
+}
+.card-fix li {
+  height: 50px;
+  margin-bottom: 5px;
+  color: darkblue;
+}/*# sourceMappingURL=style.css.map */
