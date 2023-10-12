@@ -68,8 +68,6 @@ interface ICars{
     seats?: number;
     weight?: number;
     calcPrice: Function;
-    // total?: number;
-    // printPrice: Function;
 }
 
 let carsArray : ICars[] = [];
